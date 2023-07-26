@@ -1,4 +1,4 @@
-<h1 align="center"> Warehouse - Inventory Management System </h1>
+<h1 align=""> Warehouse - Inventory Management System </h1>
 <h3 align="">Inventory Management System with php and mysql
 Invoice generation and easy to download invoice in PDF format
 Lightweight and easy to use
@@ -6,18 +6,17 @@ Order management and product management can be done with ease
 Report management
 User wise sell report</h3>
 
-<h3 align="center">Requirement</h3>
- <p align="center"> <img src="https://img.shields.io/badge/MySQL-XAMPP-20232A?style=for-the-badge&logo=mysql&logoColor=61DAFB" </p>
+<h3 align="">Requirement</h3>
+ <p align=""> <img src="https://img.shields.io/badge/MySQL-XAMPP-61DAFB?style=for-the-badge&logo=mysql&logoColor=red" </p>
    
 <br />
 
+<h2 align="">🖥️ Tech Stacks</h2>
 
-<h2 align="center">🖥️ Tech Stacks</h2>
 
+<h4 align="">Frontend:</h4>
 
-<h4 align="center">Frontend:</h4>
-
-<p align="center">
+<p align="">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
   <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
@@ -28,28 +27,28 @@ User wise sell report</h3>
   <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white" alt="stripe" />
 </p>
 
-<h4 align="center">Backend:</h4>
+<h4 align="">Backend:</h4>
 
-<p align="center">
+<p align="">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
 </p>
 
-<h4 align="center">Deployed On:</h4>
+<h4 align="">Deployed On:</h4>
 
-<p align="center">
+<p align="">
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="vercel" />
   <img src="https://img.shields.io/badge/Cyclic-430098?style=for-the-badge&logo=cyclic&logoColor=white" alt="cyclic" />
 </p>
 
-<h3 align="center"><a href="https://happycart-official.netlify.app/"><strong>Want to see live preview »</strong></a></h3>
+<h3 align=""><a href="https://happycart-official.netlify.app/"><strong>Want to see live preview »</strong></a></h3>
 
-<h3 align="center"><a href="https://www.linkedin.com/feed/update/urn:li:activity:7042094659233341440/"><strong>Demo Video »</strong></a></h3>
+<h3 align=""><a href="https://www.linkedin.com/feed/update/urn:li:activity:7042094659233341440/"><strong>Demo Video »</strong></a></h3>
 
 
 <br />
 
-<p align="center">
+<p align="">
   <br />&#10023;
   <a href="#The-Little-AI">Getting Started</a> &#10023; 
   <a href="#Contact">Author</a> &#10023;
