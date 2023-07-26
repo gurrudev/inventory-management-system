@@ -8,7 +8,5 @@ User wise sell report
 
 ## Requirement
  - XAMPP
- - 
-core.php, logout.php, index.php
-header('location: http://localhost/<foldername>/index.php');	
-
+   
+## 
