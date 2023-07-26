@@ -38,14 +38,14 @@ User wise sell report</h4>
 <h3 align=""><a href="https://wharehousejetha.000webhostapp.com/"><strong>Want to see live preview »</strong></a></h3>
 
 <br />
-Please change connection details in inventory-management-system/php_action/db_connect.php<br /><br />
+Please change connection details in /php_action/db_connect.php<br /><br />
 
 ```php
 
 $localhost = " ";
 $username = " ";
 $password = " ";
-$dbname = " "; //
+$dbname = " "; // Checkout /database/store.sql
 
 // db connection
 $connect = new mysqli($localhost, $username, $password, $dbname);
