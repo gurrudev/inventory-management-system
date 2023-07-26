@@ -105,8 +105,8 @@ Happy Cart is a web-based application that allows users to browse, search, and p
 ## Contact
 
 If you want to contact me, you can reach me through below handles. <br />
-[![linkedin](https://img.shields.io/badge/Dhanush_Saji-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanush-saji/)
-[![GitHub](https://img.shields.io/badge/Dhanush_Saji-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Dhanush-Saji)
+[![linkedin](https://img.shields.io/badge/gurrudev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanush-saji/)
+[![GitHub](https://img.shields.io/badge/gurrudev-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Dhanush-Saji)
 
 
 
