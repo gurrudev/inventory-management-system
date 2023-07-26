@@ -1,18 +1,17 @@
 <h1 align=""> Warehouse - Inventory Management System </h1>
-<h5 align="">Inventory Management System with php and mysql
+<h4 align="">Inventory Management System with php and mysql
 Invoice generation and easy to download invoice in PDF format
 Lightweight and easy to use
 Order management and product management can be done with ease
 Report management
-User wise sell report</h5>
+User wise sell report</h4>
 
-<h3 align="">🚀 Requirement</h3>
+<h2 align="">🚀 Requirement</h2>
  <p align=""> <img src="https://img.shields.io/badge/MySQL-XAMPP-F29111?style=for-the-badge&logo=mysql&logoColor=red" </p>
    
 <br />
 
 <h2 align="">🖥️ Tech Stacks</h2>
-
 
 <h4 align="">Frontend:</h4>
 
