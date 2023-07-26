@@ -7,7 +7,7 @@ Report management
 User wise sell report</h3>
 
 <h3 align="center">Requirement</h3>
- - XAMPP
+ <p align="center"> <img src="https://img.shields.io/badge/MySQL-XAMPP-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" </p>
    
 <br />
 
