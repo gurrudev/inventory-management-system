@@ -6,6 +6,7 @@ Order management and product management can be done with ease
 Report management
 User wise sell report</h4>
 
+
 <h2 align="">🚀 Requirement</h2>
  <p align=""> <img src="https://img.shields.io/badge/MySQL-XAMPP-F29111?style=for-the-badge&logo=mysql&logoColor=red" </p>
    
